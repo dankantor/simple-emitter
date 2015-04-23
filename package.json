@@ -1,0 +1,16 @@
+{
+  "author": "Dan Kantor <dan@ex.fm>",
+  "name": "simple-emitter",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dankantor/simple-emitter",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dankantor/simple-emitter.git"
+  },
+  "dependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}

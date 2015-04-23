@@ -10,13 +10,6 @@ Just a simple event emitter
 
 ## Usage
 
-    var AudioControls = require('audio-controls');
-    var audioControls = new AudioControls(
-        {
-            'playQueue': playQueue,
-            'playPause': '#control-play-pause',
-            'previous': '#control-previous',
-            'next': '#control-next'
-        }
-    );
+    var simpleEmitter = new SimpleEmitter();
+    $.extend(this, simpleEmitter);
     
